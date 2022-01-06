@@ -1,0 +1,10 @@
+*
+!.gitignore
+!ex3.py
+!ex4_*
+!sweeperlib.py
+!main.py
+!sprites/
+!sprites/tile_*.png
+!LICENSE
+!README.md
