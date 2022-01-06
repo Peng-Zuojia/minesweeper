@@ -6,5 +6,7 @@
 !main.py
 !sprites/
 !sprites/tile_*.png
+!pics/
+!pics/*.png
 !LICENSE
 !README.md
