@@ -2,6 +2,16 @@
 
 ## This project implements the classic game --  Minesweeper. 
 
+## The project can be run using the following commands:
+
+```shell
+python3 -m venv ./venv
+source ./venv/bin/activate
+pip install pyglet
+python main.py
+deactivate
+```
+
 ### Through terminal user input, user can determine the parameters of the game, for example the width and height of the mine field as well as the total amount of mines.
 
 ![User input paramenters](/pics/input.png)
